@@ -1,8 +1,13 @@
 import React from 'react'
+import Slider from '../../components/Slide/Slider'
+import "./Home.scss"
+
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <div className='home'>
+      <Slider />
+    </div>
   )
 }
 
