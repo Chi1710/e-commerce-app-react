@@ -1,12 +1,15 @@
 import React from 'react'
 import Slider from '../../components/Slide/Slider'
 import "./Home.scss"
+import FeaturedProducts from '../../components/FeaturedProducts/FeaturedProducts'
 
 
 const Home = () => {
   return (
     <div className='home'>
       <Slider />
+      <FeaturedProducts type="featured" />
+      <FeaturedProducts type="trending" />
     </div>
   )
 }
