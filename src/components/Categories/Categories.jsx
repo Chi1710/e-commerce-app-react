@@ -8,7 +8,7 @@ const Categories = () => {
       <div className="col">
         <div className="row">
           <img 
-            src="https://images.pexels.com/photos/2866119/pexels-photo-2866119.jpeg?auto=compress&cs=tinysrgb&w=600"
+            src="https://images.pexels.com/photos/11588269/pexels-photo-11588269.jpeg?auto=compress&cs=tinysrgb&w=600"
           alt=''
           />
         <button>
@@ -19,7 +19,7 @@ const Categories = () => {
         </div>
         <div className="row">
         <img 
-            src="https://images.pexels.com/photos/914668/pexels-photo-914668.jpeg?auto=compress&cs=tinysrgb&w=600"
+            src="https://images.pexels.com/photos/14148345/pexels-photo-14148345.jpeg?auto=compress&cs=tinysrgb&w=600"
           alt=''
           />
         <button>
@@ -49,7 +49,7 @@ const Categories = () => {
           <div className="col">
             <div className="row">
             <img 
-            src="https://images.pexels.com/photos/4890733/pexels-photo-4890733.jpeg?auto=compress&cs=tinysrgb&w=600"
+            src="https://images.pexels.com/photos/1813947/pexels-photo-1813947.jpeg?auto=compress&cs=tinysrgb&w=600"
           alt=''
           />
         <button>
@@ -75,7 +75,7 @@ const Categories = () => {
         </div>
         <div className="row">
         <img 
-            src="https://images.pexels.com/photos/1159670/pexels-photo-1159670.jpeg?auto=compress&cs=tinysrgb&w=600"
+            src="https://images.pexels.com/photos/2351858/pexels-photo-2351858.jpeg?auto=compress&cs=tinysrgb&w=600"
           alt=''
           />
         <button>
