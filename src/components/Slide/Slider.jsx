@@ -16,9 +16,10 @@ const Slider = () => {
     }
 
     const data = [
-        "https://images.pexels.com/photos/1549200/pexels-photo-1549200.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        "https://images.pexels.com/photos/949670/pexels-photo-949670.jpeg?auto=compress&cs=tinysrgb&w=1600",
-        "https://images.pexels.com/photos/837140/pexels-photo-837140.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "https://images.pexels.com/photos/9573704/pexels-photo-9573704.jpeg",
+        "https://images.pexels.com/photos/9775888/pexels-photo-9775888.jpeg",
+        "https://images.pexels.com/photos/952630/pexels-photo-952630.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+ 
       ];
 
   return (
